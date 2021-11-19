@@ -1,0 +1,119 @@
+.color{
+   background-color: red;
+   background-image: url(./img/Group\ 1\ \(2\).png);
+}
+
+.img-agentes{
+   
+   margin-top:120px;
+   margin-left:187px;
+}
+.img-top{
+   margin-top: 146px;
+   margin-left: 120px;
+}
+
+.titulo-card{
+   height: 41px;
+   width: 411px;
+   margin-left: 79px;
+   margin-top: 22px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 40px;
+   line-height: 52px;
+   color: #C4C4C4;
+}
+.sub-titulo{
+   height: 25px;
+   width: 224px;
+   margin-left: 79px;
+   margin-top: 32px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 31px;
+   color: #000000;
+}
+
+
+.card{
+   Width:724px;
+   Height: 275px;
+   margin-top: 93px;
+   margin-left: 242px;
+}
+
+.texto-card{
+   margin-top: 32px;
+   margin-left: 79px;
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 20px;
+   letter-spacing: 0.1em;
+
+color: #1F2326;
+
+}
+
+.navbar-logo {
+    width: 79px;
+    height: 40px;
+    margin-top: -712px;
+    margin-left: 12px;
+   
+}
+
+.navbar {
+    width: 2660px;
+    height: 132px;
+ 
+   background: #1F2326;
+}
+.logo {
+    position: absolute;
+    width: 48px;
+    height: 40px;
+    margin-right: 50px;
+    
+    background: #FFFFFF;
+}
+
+.line {
+    position: absolute;
+    width: 2px;
+    height: 42px;
+    
+    background: #FFFFFF;
+ }
+
+.agentes{
+   Width:1015px;
+   Height:210px;
+   margin-left:187px;
+   margin-top: 220px;
+}
+
+
+.solo-col{
+   width: 100vw;
+   height: 82px;
+   margin-top: 16px;
+
+   background: #F8F8F8;
+   
+}
+
+.icons{
+   margin-top: -229px;
+   margin-left: 455px;
+}
+.block{
+   width: 190px;
+   height: 182px;
+   margin-left: -50px;
+   margin-top: -125px;
+   background-image: url(./img/block.png);
+}
